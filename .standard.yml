@@ -1,0 +1,35 @@
+# Identity of this repository for the standard.
+# After editing, run: python .standards/scripts/standard.py agents .
+standard: SVN11X/standards@v1
+owner: SVN11X
+name: CHANGE-ME
+profile: web
+setup: pending
+license: MIT
+content_language: en
+github:
+  description: ''
+  homepage: ''
+  topics:
+  - web
+  - github-pages
+options:
+  hosting: github-pages
+  build: none
+  motion: subtle
+  three_d: none
+  flows: single
+  theme: both
+parts: {}
+part_options: {}
+extra_folders: {}
+skills:
+- repo-improve
+- code-review
+- tool-radar
+- web-improve
+- antislop
+- antislop-ui
+- antislop-human
+- antislop-layoutmobile
+- antislop-copywriting
